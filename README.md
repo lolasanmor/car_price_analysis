@@ -1,3 +1,4 @@
+# 📊 Análisis Estadístico de las variables que influyen en el precio de los coches
 ## 📘 Descripción del Proyecto
 
 Este proyecto realiza un **análisis estadístico completo** del conjunto de datos **Car Price Dataset**, obtenido de la plataforma [Kaggle](https://www.kaggle.com/).  
